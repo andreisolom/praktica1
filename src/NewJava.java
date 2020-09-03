@@ -20,7 +20,7 @@ public class NewJava {
             k = k + 1;
         }
         System.out.println(u);
-
+        System.out.println(b);
     }
 }
 
